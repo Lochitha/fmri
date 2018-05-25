@@ -1,16 +1,6 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname="fmri_db";
 
-// Create connection
-$conn = new mysqli($servername, $username, $password,$dbname);
+//connection making
+$mysqli= new mysqli('localhost','root','','fmri_db');
 
-// Check connection
-if ($conn->connect_error) {
-	
-    die("Connection failed: " . $conn->connect_error);
-} 
-//echo "Connected successfully";
-?>
+ ?>

@@ -45,7 +45,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fMRI%20website/index.php" class="simple-text">
+                <a href="http://localhost/fmri/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -91,10 +91,10 @@
                                 <br><br><br>
                                 <div class="card-content table-responsive">
                                     <table class="table">
-                                       <center> <a href="http://localhost/fmri%20website/admin/examples/client_welcome2.php" class="button">Update the Brodmann Area Table</a><br><br>
-                                       <center> <a href="http://localhost/fmri%20website/admin/examples/client_welcome5.php" class="button">Update the Function Table</a><br><br>
-                                       <center> <a href="http://localhost/fMRI%20website/admin/examples/client_data_entry.php" class="button">Submit New fMRI Data</a><br><br>
-                                       <center> <a href="http://localhost/fMRI%20website/admin/examples/dashboard_client.php" class="button">Visit the Dashboard</a>
+                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome2.php" class="button">Update the Brodmann Area Table</a><br><br>
+                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome5.php" class="button">Update the Function Table</a><br><br>
+                                       <center> <a href="http://localhost/fmri/admin/examples/client_data_entry.php" class="button">Submit New fMRI Data</a><br><br>
+                                       <center> <a href="http://localhost/fmri/admin/examples/dashboard_client.php" class="button">Visit the Dashboard</a>
 
 
                                     </table>

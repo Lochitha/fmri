@@ -52,7 +52,7 @@ session_start();
 	Tip 2: you can also add an image using data-image tag
 -->
 		<div class="logo">
-			<a href="http://localhost/fMRI%20website/index.php" class="simple-text">
+			<a href="http://localhost/fmri/index.php" class="simple-text">
 				Brainstorm
 			</a>
 		</div>

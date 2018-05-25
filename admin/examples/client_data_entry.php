@@ -33,7 +33,7 @@ include("../config/db_connect.php");
         Tip 2: you can also add an image using data-image tag
     -->
             <div class="logo">
-                <a href="http://localhost/fMRI%20website/index.php" class="simple-text">
+                <a href="http://localhost/fmri/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -115,7 +115,7 @@ include("../config/db_connect.php");
                 <div class="container-fluid">
                     <div class="navbar-header">
 
-                      <a href="http://localhost/fmri%20website/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
+                      <a href="http://localhost/fmri/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
                         
                         <a class="navbar-brand" href="#"></a>
                     </div>

@@ -37,7 +37,7 @@ $row = $result->fetch_assoc();
         Tip 2: you can also add an image using data-image tag
     -->
             <div class="logo">
-                <a href="http://localhost/fMRI%20website/index.php" class="simple-text">
+                <a href="http://localhost/fmri/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -119,7 +119,7 @@ $row = $result->fetch_assoc();
             <nav class="navbar navbar-transparent navbar-absolute">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <a href="http://localhost/fmri%20website/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
+                        <a href="http://localhost/fmri/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
                         <button type="button" class="navbar-toggle" data-toggle="collapse">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar"></span>

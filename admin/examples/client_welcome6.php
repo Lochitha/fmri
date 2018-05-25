@@ -44,7 +44,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fMRI%20website/index.php" class="simple-text">
+                <a href="http://localhost/fmri/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -60,9 +60,9 @@
                 <div class="container-fluid">
                     
                     <div class="navbar-header">
-                        <a href="http://localhost/fmri%20website/admin/examples/client_welcome5.php" class="btn btn-info btn-round">Back</a>
+                        <a href="http://localhost/fmri/admin/examples/client_welcome5.php" class="btn btn-info btn-round">Back</a>
              
-                        <a href="http://localhost/fmri%20website/admin/examples/client_welcome1.php" class="btn btn-info btn-round">
+                        <a href="http://localhost/fmri/admin/examples/client_welcome1.php" class="btn btn-info btn-round">
                             <i class="material-icons">home</i>
                         </a>
                         
