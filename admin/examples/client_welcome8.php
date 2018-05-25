@@ -44,7 +44,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fmri/index.php" class="simple-text">
+                <a href="http://35.185.174.224/fmri_final/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -63,8 +63,8 @@
 
 
                     <div class="navbar-header">
-                        <a href="http://localhost/fmri/admin/examples/client_welcome2.php" class="btn btn-info btn-round">Back</a>
-                        <a href="http://localhost/fmri/admin/examples/client_welcome1.php" class="btn btn-info btn-round">
+                        <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome2.php" class="btn btn-info btn-round">Back</a>
+                        <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome1.php" class="btn btn-info btn-round">
                                 <i class="material-icons">home</i>
                         </a>
                         
@@ -103,9 +103,9 @@
                                 <br><br><br>
                                 <div class="card-content table-responsive">
                                     <table class="table">
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome9.php" class="button button1">View</a><br><br>
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome12.php" class="button button1">Delete</a><br><br>
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome4.php" class="button button1">Update</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome9.php" class="button button1">View</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome12.php" class="button button1">Delete</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome4.php" class="button button1">Update</a><br><br>
                                        
                                     </table>
                                 </div>

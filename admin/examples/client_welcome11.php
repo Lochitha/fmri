@@ -44,7 +44,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fmri/index.php" class="simple-text">
+                <a href="http://35.185.174.224/fmri_final/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -102,9 +102,9 @@
                                 <br><br><br>
                                 <div class="card-content table-responsive">
                                     <table class="table">
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome10.php" class="button button1">View</a><br><br>
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome13.php" class="button button1">Delete</a><br><br>
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome14.php" class="button button1">Update</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome10.php" class="button button1">View</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome13.php" class="button button1">Delete</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome14.php" class="button button1">Update</a><br><br>
                                        
                                     </table>
                                 </div>

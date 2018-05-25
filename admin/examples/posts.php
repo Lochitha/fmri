@@ -32,7 +32,7 @@ include("../config/db_connect.php");
         Tip 2: you can also add an image using data-image tag
     -->
             <div class="logo">
-                <a href="http://localhost/fmri/index.php" class="simple-text">
+                <a href="http://35.185.174.224/fmri_final/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>

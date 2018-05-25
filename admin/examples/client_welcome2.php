@@ -44,7 +44,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fmri/index.php" class="simple-text">
+                <a href="http://35.185.174.224/fmri_final/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -63,7 +63,7 @@
 
 
                     <div class="navbar-header">
-                        <a href="http://localhost/fmri/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
+                        <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
                         
 
 
@@ -100,8 +100,8 @@
                                 <br><br><br>
                                 <div class="card-content table-responsive">
                                     <table class="table">
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome3.php" class="button button1">Suggest a new Brodmann Area</a><br><br>
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome8.php" class="button button1">Update a Brodmann Area</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome3.php" class="button button1">Suggest a new Brodmann Area</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome8.php" class="button button1">Update a Brodmann Area</a><br><br>
                                        
                                     </table>
                                 </div>

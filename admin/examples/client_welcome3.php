@@ -44,7 +44,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fmri/index.php" class="simple-text">
+                <a href="http://35.185.174.224/fmri_final/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>

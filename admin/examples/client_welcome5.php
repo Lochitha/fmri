@@ -44,7 +44,7 @@
         <div class="sidebar" data-color="blue" data-image="../assets/img/sidebar-1.jpg">
  
             <div class="logo">
-                <a href="http://localhost/fmri/index.php" class="simple-text">
+                <a href="http://35.185.174.224/fmri_final/index.php" class="simple-text">
                     Brainstorm
                 </a>
             </div>
@@ -61,7 +61,7 @@
                     
 
                     <div class="navbar-header">
-                        <a href="http://localhost/fmri/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
+                        <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome1.php" class="btn btn-info btn-round">Back</a>
                         
 
 
@@ -96,8 +96,8 @@
                                 <br><br><br>
                                 <div class="card-content table-responsive">
                                     <table class="table">
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome6.php" class="button">Suggest a new Brain Function</a><br><br>
-                                       <center> <a href="http://localhost/fmri/admin/examples/client_welcome11.php" class="button">Update a Brain Function</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome6.php" class="button">Suggest a new Brain Function</a><br><br>
+                                       <center> <a href="http://35.185.174.224/fmri_final/admin/examples/client_welcome11.php" class="button">Update a Brain Function</a><br><br>
                                        
                                     </table>
                                 </div>
